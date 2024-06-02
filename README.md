@@ -1,1 +1,1 @@
-# Fix_My_Code_Challenge
+# Fix my code challenge, ALX School optional project where fix is applied to existing code base.
